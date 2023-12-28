@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\bin\Debug\net6.0\Divizorii lui n.exe
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\bin\Debug\net6.0\Divizorii lui n.deps.json
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\bin\Debug\net6.0\Divizorii lui n.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\bin\Debug\net6.0\Divizorii lui n.dll
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\bin\Debug\net6.0\Divizorii lui n.pdb
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\Divizorii lui n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\Divizorii lui n.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\Divizorii lui n.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\Divizorii lui n.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\Divizorii lui n.dll
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\refint\Divizorii lui n.dll
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\Divizorii lui n.pdb
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\Divizorii lui n.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\Divizorii lui n\obj\Debug\net6.0\ref\Divizorii lui n.dll
