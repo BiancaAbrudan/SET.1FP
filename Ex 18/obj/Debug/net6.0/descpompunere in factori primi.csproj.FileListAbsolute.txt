@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\bin\Debug\net6.0\descpompunere in factori primi.exe
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\bin\Debug\net6.0\descpompunere in factori primi.deps.json
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\bin\Debug\net6.0\descpompunere in factori primi.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\bin\Debug\net6.0\descpompunere in factori primi.dll
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\bin\Debug\net6.0\descpompunere in factori primi.pdb
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\descpompunere in factori primi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\descpompunere in factori primi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\descpompunere in factori primi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\descpompunere in factori primi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\descpompunere in factori primi.dll
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\refint\descpompunere in factori primi.dll
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\descpompunere in factori primi.pdb
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\descpompunere in factori primi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\descpompunere in factori primi\obj\Debug\net6.0\ref\descpompunere in factori primi.dll
+C:\Users\Admin\Desktop\Set1\Ex 18\bin\Debug\net6.0\descpompunere in factori primi.exe
+C:\Users\Admin\Desktop\Set1\Ex 18\bin\Debug\net6.0\descpompunere in factori primi.deps.json
+C:\Users\Admin\Desktop\Set1\Ex 18\bin\Debug\net6.0\descpompunere in factori primi.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\Ex 18\bin\Debug\net6.0\descpompunere in factori primi.dll
+C:\Users\Admin\Desktop\Set1\Ex 18\bin\Debug\net6.0\descpompunere in factori primi.pdb
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\descpompunere in factori primi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\descpompunere in factori primi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\descpompunere in factori primi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\descpompunere in factori primi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\descpompunere in factori primi.dll
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\refint\descpompunere in factori primi.dll
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\descpompunere in factori primi.pdb
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\descpompunere in factori primi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\Ex 18\obj\Debug\net6.0\ref\descpompunere in factori primi.dll
