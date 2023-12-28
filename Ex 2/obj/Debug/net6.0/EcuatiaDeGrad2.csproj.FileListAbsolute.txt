@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\bin\Debug\net6.0\EcuatiaDeGrad2.exe
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\bin\Debug\net6.0\EcuatiaDeGrad2.deps.json
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\bin\Debug\net6.0\EcuatiaDeGrad2.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\bin\Debug\net6.0\EcuatiaDeGrad2.dll
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\bin\Debug\net6.0\EcuatiaDeGrad2.pdb
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\EcuatiaDeGrad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\EcuatiaDeGrad2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\EcuatiaDeGrad2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\EcuatiaDeGrad2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\EcuatiaDeGrad2.dll
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\refint\EcuatiaDeGrad2.dll
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\EcuatiaDeGrad2.pdb
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\EcuatiaDeGrad2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\EcuatiaDeGrad2\obj\Debug\net6.0\ref\EcuatiaDeGrad2.dll
