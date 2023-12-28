@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\Palindrom\bin\Debug\net6.0\Palindrom.exe
+C:\Users\Admin\Desktop\Set1\Palindrom\bin\Debug\net6.0\Palindrom.deps.json
+C:\Users\Admin\Desktop\Set1\Palindrom\bin\Debug\net6.0\Palindrom.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\Palindrom\bin\Debug\net6.0\Palindrom.dll
+C:\Users\Admin\Desktop\Set1\Palindrom\bin\Debug\net6.0\Palindrom.pdb
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\Palindrom.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\Palindrom.dll
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\refint\Palindrom.dll
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\Palindrom.pdb
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\Palindrom.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\Palindrom\obj\Debug\net6.0\ref\Palindrom.dll
