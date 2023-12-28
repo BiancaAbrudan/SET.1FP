@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\laturi triunghi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\laturi triunghi.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\laturi triunghi.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\laturi triunghi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\laturi triunghi\bin\Debug\net6.0\laturi triunghi.exe
+C:\Users\Admin\Desktop\Set1\laturi triunghi\bin\Debug\net6.0\laturi triunghi.deps.json
+C:\Users\Admin\Desktop\Set1\laturi triunghi\bin\Debug\net6.0\laturi triunghi.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\laturi triunghi\bin\Debug\net6.0\laturi triunghi.dll
+C:\Users\Admin\Desktop\Set1\laturi triunghi\bin\Debug\net6.0\laturi triunghi.pdb
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\laturi triunghi.dll
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\refint\laturi triunghi.dll
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\laturi triunghi.pdb
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\laturi triunghi.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\laturi triunghi\obj\Debug\net6.0\ref\laturi triunghi.dll
