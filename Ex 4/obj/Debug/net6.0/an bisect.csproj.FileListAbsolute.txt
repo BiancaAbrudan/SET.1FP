@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\an bisect\bin\Debug\net6.0\an bisect.exe
+C:\Users\Admin\Desktop\Set1\an bisect\bin\Debug\net6.0\an bisect.deps.json
+C:\Users\Admin\Desktop\Set1\an bisect\bin\Debug\net6.0\an bisect.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\an bisect\bin\Debug\net6.0\an bisect.dll
+C:\Users\Admin\Desktop\Set1\an bisect\bin\Debug\net6.0\an bisect.pdb
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\an bisect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\an bisect.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\an bisect.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\an bisect.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\an bisect.dll
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\refint\an bisect.dll
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\an bisect.pdb
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\an bisect.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\an bisect\obj\Debug\net6.0\ref\an bisect.dll
