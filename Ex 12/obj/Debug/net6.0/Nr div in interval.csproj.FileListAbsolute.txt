@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\Nr div in interval\bin\Debug\net6.0\Nr div in interval.exe
+C:\Users\Admin\Desktop\Set1\Nr div in interval\bin\Debug\net6.0\Nr div in interval.deps.json
+C:\Users\Admin\Desktop\Set1\Nr div in interval\bin\Debug\net6.0\Nr div in interval.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\Nr div in interval\bin\Debug\net6.0\Nr div in interval.dll
+C:\Users\Admin\Desktop\Set1\Nr div in interval\bin\Debug\net6.0\Nr div in interval.pdb
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\Nr div in interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\Nr div in interval.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\Nr div in interval.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\Nr div in interval.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\Nr div in interval.dll
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\refint\Nr div in interval.dll
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\Nr div in interval.pdb
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\Nr div in interval.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\Nr div in interval\obj\Debug\net6.0\ref\Nr div in interval.dll

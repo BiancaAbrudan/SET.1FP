@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nr div in interval", "Nr div in interval.csproj", "{A40DB7CD-4FF7-48B7-BD30-765C9F273A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A40DB7CD-4FF7-48B7-BD30-765C9F273A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40DB7CD-4FF7-48B7-BD30-765C9F273A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40DB7CD-4FF7-48B7-BD30-765C9F273A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40DB7CD-4FF7-48B7-BD30-765C9F273A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D06ECD-BDBB-4436-8822-255EA535048A}
+	EndGlobalSection
+EndGlobal
