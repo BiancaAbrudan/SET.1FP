@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\bin\Debug\net6.0\Ordine inversa n.exe
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\bin\Debug\net6.0\Ordine inversa n.deps.json
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\bin\Debug\net6.0\Ordine inversa n.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\bin\Debug\net6.0\Ordine inversa n.dll
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\bin\Debug\net6.0\Ordine inversa n.pdb
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\Ordine inversa n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\Ordine inversa n.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\Ordine inversa n.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\Ordine inversa n.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\Ordine inversa n.dll
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\refint\Ordine inversa n.dll
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\Ordine inversa n.pdb
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\Ordine inversa n.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\Ordine inversa n\obj\Debug\net6.0\ref\Ordine inversa n.dll
