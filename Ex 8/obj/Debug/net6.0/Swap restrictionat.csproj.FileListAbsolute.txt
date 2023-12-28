@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\bin\Debug\net6.0\Swap restrictionat.exe
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\bin\Debug\net6.0\Swap restrictionat.deps.json
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\bin\Debug\net6.0\Swap restrictionat.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\bin\Debug\net6.0\Swap restrictionat.dll
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\bin\Debug\net6.0\Swap restrictionat.pdb
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\Swap restrictionat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\Swap restrictionat.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\Swap restrictionat.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\Swap restrictionat.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\Swap restrictionat.dll
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\refint\Swap restrictionat.dll
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\Swap restrictionat.pdb
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\Swap restrictionat.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\Swap restrictionat\obj\Debug\net6.0\ref\Swap restrictionat.dll
