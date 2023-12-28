@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\bin\Debug\net6.0\A k a cifra a nr.exe
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\bin\Debug\net6.0\A k a cifra a nr.deps.json
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\bin\Debug\net6.0\A k a cifra a nr.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\bin\Debug\net6.0\A k a cifra a nr.dll
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\bin\Debug\net6.0\A k a cifra a nr.pdb
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\A k a cifra a nr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\A k a cifra a nr.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\A k a cifra a nr.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\A k a cifra a nr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\A k a cifra a nr.dll
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\refint\A k a cifra a nr.dll
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\A k a cifra a nr.pdb
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\A k a cifra a nr.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\A k a cifra a nr\obj\Debug\net6.0\ref\A k a cifra a nr.dll
