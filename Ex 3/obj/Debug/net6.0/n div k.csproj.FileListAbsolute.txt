@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\n div k\bin\Debug\net6.0\n div k.exe
+C:\Users\Admin\Desktop\Set1\n div k\bin\Debug\net6.0\n div k.deps.json
+C:\Users\Admin\Desktop\Set1\n div k\bin\Debug\net6.0\n div k.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\n div k\bin\Debug\net6.0\n div k.dll
+C:\Users\Admin\Desktop\Set1\n div k\bin\Debug\net6.0\n div k.pdb
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\n div k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\n div k.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\n div k.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\n div k.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\n div k.dll
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\refint\n div k.dll
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\n div k.pdb
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\n div k.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\n div k\obj\Debug\net6.0\ref\n div k.dll
