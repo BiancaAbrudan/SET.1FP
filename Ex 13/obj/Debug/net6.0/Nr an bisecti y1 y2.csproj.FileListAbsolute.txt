@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\Nr an bisecti y1 y2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\Nr an bisecti y1 y2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\Nr an bisecti y1 y2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\Nr an bisecti y1 y2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\bin\Debug\net6.0\Nr an bisecti y1 y2.exe
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\bin\Debug\net6.0\Nr an bisecti y1 y2.deps.json
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\bin\Debug\net6.0\Nr an bisecti y1 y2.runtimeconfig.json
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\bin\Debug\net6.0\Nr an bisecti y1 y2.dll
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\bin\Debug\net6.0\Nr an bisecti y1 y2.pdb
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\Nr an bisecti y1 y2.dll
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\refint\Nr an bisecti y1 y2.dll
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\Nr an bisecti y1 y2.pdb
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\Nr an bisecti y1 y2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Set1\Nr an bisecti y1 y2\obj\Debug\net6.0\ref\Nr an bisecti y1 y2.dll
